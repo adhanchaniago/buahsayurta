@@ -1,0 +1,17 @@
+{
+    "name": "wildanfuady/wfcart",
+    "description": "Free open source library / package for shopping cart in Codeigniter 4",
+    "require": {
+        "php": "^7.2",
+        "wildanfuady/wfcart": "1.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Wildan Fuady",
+            "email": "wildanfuady@gmail.com",
+            "homepage": "https://www.wildnafuady.github.io",
+            "role": "Developer"
+        }
+    ]
+}
